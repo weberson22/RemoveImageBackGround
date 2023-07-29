@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 crie uma pasta com nome image
 e dentro dela coloque as imagens que deseja remover o fundo
-execute o script, uma nova pasta seria criado e todos as imagens estaram com o fundo removido.
+execute o script, uma nova pasta seria criado e todas as imagens estaram com o fundo removido.
 A qualidade vai depender da imagem mas se a imagem for boa normalmente o resultado fica bom.
 
 ## Contribuição
